@@ -1,5 +1,5 @@
 # LoQua
 
-Hut
-Koe
-Lai
+Nat
+Joe
+Pai
